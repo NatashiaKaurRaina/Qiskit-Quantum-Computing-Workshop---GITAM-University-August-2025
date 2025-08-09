@@ -7,12 +7,19 @@
 <u><b><h3>Content:</u></b></h3>
 
 India and Quantum
+
 Bits & Qubits
+
 Quantum vs Classical Computing
+
 Quantum States 
+
 Bloch Sphere
+
 Quantum Gates 
+
 Quantum Circuits 
+
 Superposition & Entanglement 
 
 
@@ -20,10 +27,17 @@ Superposition & Entanglement
 ![image](IMG-20250804-WA0016.jpg)
 
 <u><b><h3>Content:</u></b></h3>
+
 Matrices
+
 Quantum States
+
 Single Qubit Gates
+
 Multi-qubit Gates
+
 Quantum Circuit Formation
+
 Qiskit Coding
+
 
