@@ -1,1 +1,2 @@
-# Qiskit-Quantum-Computing-Workshop---GITAM-University-August-2025
+# Qiskit & Quantum Computing Workshop - GITAM University August 2025
+
