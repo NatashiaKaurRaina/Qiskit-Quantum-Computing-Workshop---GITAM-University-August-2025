@@ -1,6 +1,6 @@
 # Qiskit & Quantum Computing Workshop - GITAM University August 2025
 
-![image](https://github.com/NatashiaKaurRaina/Ultimate-Quantum-Resources/blob/main/Ultimate%20Quantum%20Resources%20Images.png)
+![image](IMG-20250804-WA0016.jpg)
 
-![image](https://github.com/NatashiaKaurRaina/Ultimate-Quantum-Resources/blob/main/Ultimate%20Quantum%20Resources%20Images.png)
+![image](IMG-20250804-WA0016.jpg)
 
